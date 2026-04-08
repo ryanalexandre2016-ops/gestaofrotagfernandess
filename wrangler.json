@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "gestaofrotagfernandess",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "3f6765d5-5cb9-4fc1-acc9-5ef203bac114",
+			"database_name": "gfernandes"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
